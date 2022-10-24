@@ -1,0 +1,24 @@
+1.
+Google for correct definitions and examples
+1.2, 1.3 - See Following Answer by Saurabh Das:
+https://www.quora.com/What-is-the-difference-between-Kinematics-Kinetics-and-Dynamics
+
+2.
+See Reference Material under Introduction to Vehicle Dynamics Module:
+2.a - https://clemson.instructure.com/courses/173594/files/14067426?module_item_id=3002098
+2.b - https://clemson.instructure.com/courses/173594/files/14052699?module_item_id=3002094
+
+3.
+See Following Lecture by Steve Brunton:
+https://www.youtube.com/watch?v=1YMTkELi3tE
+
+4.
+See Reference Material under Introduction to Vehicle Dynamics Module for Solving:
+https://clemson.instructure.com/courses/173594/files/14052699?module_item_id=3002094
+See Example 8.1.1 for Proof/Verification:
+https://math.libretexts.org/Courses/Monroe_Community_College/MTH_211_Calculus_II/Chapter_8%3A_Introduction_to_Differential_Equations/8.1%3A_Basics_of_Differential_Equations
+
+5.
+See Following Modelling Concepts for Levers/Multiple-Masses:
+https://lpsa.swarthmore.edu/Systems/MechTranslating/TransMechSysLeversPulleys.html#Pulleys
+https://www.youtube.com/watch?v=9ipdIWxBLNw
