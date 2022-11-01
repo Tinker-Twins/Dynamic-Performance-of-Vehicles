@@ -26,7 +26,7 @@ while S < L
     v(i+1) = v(i)+delta_t*a_accel(i);
     S(i+1) = S(i)+delta_t*v(i);
     i = i+1;
-    if abs(v(i)^2 - (v_corner^2 + 2*abs(a_brake)*(L-S(i)))) <= 1
+    if abs(v(i)^2 - (v_corner^2 + 2*abs(a_brake)*(L-S(i)))) <= 0.001
         break;
     end
 end
