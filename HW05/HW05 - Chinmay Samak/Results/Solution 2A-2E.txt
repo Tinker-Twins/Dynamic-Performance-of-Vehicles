@@ -1,0 +1,26 @@
+2A
+Front Load   YB         Yr        Yd        NB        Nr        Nd
+   1.0e+05 *
+
+    0.0006   -1.7840    0.0365    0.8920    0.4894   -0.2603    0.9788
+    0.0005   -1.7840         0    0.8920         0   -0.2502    1.2234
+    0.0004   -1.7840   -0.0365    0.8920   -0.4894   -0.2603    1.4681
+
+
+2B
+Stability factor at 60% front load is 0.001431 rad.s^2.m^-2
+Stability factor at 50% front load is 0.000000 rad.s^2.m^-2
+Stability factor at 40% front load is -0.001431 rad.s^2.m^-2
+
+2C
+Critical speed at 60% front load is (0.000000 + 26.431010 j) m/s (i.e. DOES NOT EXIST!)
+Critical speed at 50% front load is (0.000000 + Inf j) m/s (i.e. DOES NOT EXIST!)
+Critical speed at 40% front load is (26.431010 + 0.000000 j) m/s (i.e. 26.431010 m/s)
+
+2D
+Distance from the neutral steer point to the front tire is 1.371533 m
+
+2E
+Stability factor at 60% front load is 0.100000
+Stability factor at 50% front load is 0.000000
+Stability factor at 40% front load is -0.100000

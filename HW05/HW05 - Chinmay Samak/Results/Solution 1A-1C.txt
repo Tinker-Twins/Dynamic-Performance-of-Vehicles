@@ -1,0 +1,3 @@
+1A: UG should be between 0.002790 to 0.006278 rad.s^2.m^-1
+1B: Maximum steering sensitivity is 5.376344 s^-1
+1C: Steering wheel angles at 80 kph & 120 kph are 1.192725 & 0.530100 rad
