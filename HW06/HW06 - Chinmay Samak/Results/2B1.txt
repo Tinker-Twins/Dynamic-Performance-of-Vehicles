@@ -1,0 +1,2 @@
+UG for Manuever 1 with Non-Linear Tire Model is 0.003700 rad sec^2 m^-1
+UG for Manuever 2 with Non-Linear Tire Model is 0.002029 rad sec^2 m^-1

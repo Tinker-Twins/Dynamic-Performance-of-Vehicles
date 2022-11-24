@@ -1,0 +1,6 @@
+UG for Manuever 2 with Non-Linear Tire Model and Load Transfer is 0.002719 rad sec^2 m^-1
+
+Looking at variation of lateral force vs. slip angle plots for front & rear tires (with load transfer), and assuming
+same tire quality (i.e., same breakaway slip angle), we can observe that since the slope of the lateral force vs. slip
+angle plot in the linear region (i.e., cornering stiffness) of rear tire is less than that of the front tire, it will
+saturate (reach maximum lateral force) before the front tire, indicating that the vehicle will be limit oversteer.
