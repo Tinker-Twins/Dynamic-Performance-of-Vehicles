@@ -1,0 +1,3 @@
+1A: The vehicle's CG is at (1.458615 m , 0.685767 m) as measured from the rear axle and left side
+
+1B: The vehicle's diagonal weight (a.k.a. crossweight or wedge) is 222.410946 N

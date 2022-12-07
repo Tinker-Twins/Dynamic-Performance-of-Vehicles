@@ -1,0 +1,9 @@
+2A: The height of CG must be 0.888889 m to cause untripped rollover of the vehicle at 0.9g lateral acceleration
+
+2B: Total load transfer in vehicle when CG height is half of the rollover height will be 5000.00 N
+
+2C: Since the lateral load transfer is to be evenly distributed between front and rear, and since suspension
+springs in rear are 25% (1.25 times) stiffer than ones in the front, anti-roll bar needs to be added in the
+front (to compensate for less stiff springs) with torsional stiffness of 0.32 times front spring stiffness (Kf)
+
+2D: The static wheel loads for given vehicle configuration are LF = 6006.25 N, RF = 5593.75 N, LR = 4393.75 N, RR = 4006.25 N
