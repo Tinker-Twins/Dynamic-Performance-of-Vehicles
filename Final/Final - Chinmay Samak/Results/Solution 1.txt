@@ -1,0 +1,9 @@
+Ans 1.5: The path radius (R) is 69.807271 m
+
+Ans 1.3: The yaw damping derivative (Nr) is -20715.098097 Nms/rad
+
+Ans 1.4: The front (Cf) and rear (Cr) cornering stiffnesses are -74762.860542 and -112144.290813 N/rad
+
+Ans 1.2: The control moment derivative (Nd) is 136719.647440 Nm/rad
+
+Ans 1.1: The static stability derivative (NB) is 0.000000 Nm/rad

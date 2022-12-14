@@ -1,0 +1,2 @@
+Ans 4C.B: The estimated suspension damping coefficients (assumung they are equal)
+considering RMSE between given data and simulation results are 18470.000000 Ns/m

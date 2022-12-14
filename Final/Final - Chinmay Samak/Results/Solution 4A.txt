@@ -1,0 +1,7 @@
+Ans 4A.A: The static wheel loads for given vehicle parameters are LF = 5857.41 N, RF = 5197.95 N, LR = 4788.50 N, RR = 4629.04 N
+
+Ans 4A.B: Expression "dWx = (m*ax*h)/l = (W*Ax*h)/l" gives longitudinal load transfer while acceleration/braking
+
+Ans 4A.C: The load transferred from the rear tires to the front tires when the vehicle is braking at 0.5g is 2491.411235 N
+
+Ans 4A.D: At 18.540900 m/s^2 longitudinal acceleration all the load will be transferred to front from rear in a straight-line motion

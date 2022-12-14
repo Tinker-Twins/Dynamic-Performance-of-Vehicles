@@ -1,0 +1,19 @@
+Ans 3A.A: The Ackerman steering angle (dA) is 0.029991 rad
+
+Ans 3A.B: The lateral acceleration (ay) is 3.278267 m/s^2
+
+Ans 3A.C: The yaw rate (r) is 0.146670 rad/s
+
+Ans 3A.D: The front lateral force (Fyf) is 29416.771056 N
+
+Ans 3A.E: The rear lateral force (Fyr) is 34487.823251 N
+
+Ans 3A.F: The front slip angle (af) is 0.044864 rad
+
+Ans 3A.G: The rear slip angle (ar) is 0.042911 rad
+
+Ans 3A.H: The total yaw moment (Mz) is 17623.895154 Nm
+
+Ans 3A.I: The vehicle sideslip angle (B) is -0.030911 rad
+
+Ans 3A.J: The steering angle (d) is 0.031944 rad
